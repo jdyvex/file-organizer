@@ -10,10 +10,6 @@ Simply exec `sudo python3 organizer.py` into the cmd line
 
 Edit the `config.json` file to set the directory to organize and the categories.
 
-## Usage
-
-Simply execute `sudo python3 organizer.py` to organize your downloads folder.
-
 ```json
 {
     "directory": "/path/to/your/folder",
