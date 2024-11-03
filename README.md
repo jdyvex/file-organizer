@@ -6,6 +6,10 @@ This Python script organizes files in a specified directory based on file types.
 
 Edit the `config.json` file to set the directory to organize and the categories.
 
+## Usage
+
+Simply execute `pyt
+
 ```json
 {
     "directory": "/path/to/your/folder",
