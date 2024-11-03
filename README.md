@@ -2,6 +2,10 @@
 
 This Python script organizes files in a specified directory based on file types.
 
+# Usage
+
+Simply exec `sudo python3 organizer.py` into the cmd line
+
 ## Configuration
 
 Edit the `config.json` file to set the directory to organize and the categories.
