@@ -1,0 +1,13 @@
+{
+    "directory": "/Users/dyvex/Downloads",
+    "categories": {
+        "PNG Images": [".png"],
+        "SVG Images": [".svg"],
+        "JPEG Images": [".jpg", ".jpeg"],
+        "Documents": [".pdf", ".docx", ".txt", ".xlsx"],
+        "Audio": [".mp3", ".wav", ".aac"],
+        "Videos": [".mp4", ".mov", ".avi"],
+        "Archives": [".zip", ".tar", ".gz"],
+        "Others": []
+    }
+}
