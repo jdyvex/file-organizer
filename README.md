@@ -12,7 +12,7 @@ Edit the `config.json` file to set the directory to organize and the categories.
 
 ## Usage
 
-Simply execute `pyt
+Simply execute `sudo python3 organizer.py` to organize your downloads folder.
 
 ```json
 {
